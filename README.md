@@ -1,5 +1,5 @@
 # renkliToplar
 renkliToplat
-<h1> FLAHSING BALLS</h1>
+<h1> FLASHING BALLS</h1>
 
 ![](flashingBalls.gif)
